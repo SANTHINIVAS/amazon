@@ -1,2 +1,1 @@
 goodevening
-goodbye
